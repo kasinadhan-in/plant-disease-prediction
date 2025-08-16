@@ -3,7 +3,7 @@
 This project predicts plant diseases using machine learning.  
 It includes:
 - A **Streamlit app** (`app.py`) for interactive predictions  
-- A **Jupyter Notebook** (`ds_final.ipynb`) for experiments & analysis  
+- A **Google Colab Notebook** (`ds_final.ipynb`) for experiments & analysis  
 
 ## 🚀 Features
 - Synthetic dataset generation  
@@ -14,7 +14,7 @@ It includes:
 ## 📂 Project Structure
 plant-disease-prediction/
 ├── app.py              # Streamlit app
-├── ds_final.ipynb      # Jupyter notebook with analysis & models
+├── ds_final.ipynb      # Google Colab notebook with analysis & models
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
 
@@ -27,11 +27,11 @@ plant-disease-prediction/
   ```sh
   pip install -r requirements.txt
 
-▶️ Run Streamlit App
-  streamlit run app.py
+## ▶️ Run Streamlit App
+   - streamlit run app.py
 
-📊 Notebook
-  Run ds_final.ipynb for detailed analysis in Jupyter Notebook.
+## 📊 Notebook
+   - run ds_final.ipynb in Jupyter
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
