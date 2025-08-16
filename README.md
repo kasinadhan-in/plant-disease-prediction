@@ -28,10 +28,11 @@ plant-disease-prediction/
   pip install -r requirements.txt
 ```
 ## ▶️ Run Streamlit App
-   - streamlit run app.py
-
+```
+streamlit run app.py
+```
 ## 📊 Notebook
-   - run ds_final.ipynb in Jupyter
+ - Open ds_final.ipynb in Google Colab for detailed analysis and model experimentation.
 
 ## 📜 License
 This project is open-source and available under the MIT License.
