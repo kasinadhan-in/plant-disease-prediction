@@ -26,7 +26,7 @@ plant-disease-prediction/
 2. Install dependencies:
   ```sh
   pip install -r requirements.txt
-
+```
 ## ▶️ Run Streamlit App
    - streamlit run app.py
 
