@@ -12,12 +12,13 @@ It includes:
 - Shows prediction probability & model accuracy  
 
 ## 📂 Project Structure
+```
 plant-disease-prediction/
 ├── app.py              # Streamlit app
 ├── ds_final.ipynb      # Google Colab notebook with analysis & models
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
-
+```
 ## ⚙️ Installation
 1. Clone this repo:
    ```sh
